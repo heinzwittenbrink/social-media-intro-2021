@@ -5,6 +5,46 @@ date: 2021-08-23
 
 ---
 
+##
+
+| Models|Views|Controlers|
+|---|---|---|---|
+|Publishing|Abonnement|Interaktion und Navigation|
+|Soziale Objekte|Streams|Netzwerke|
+
+
+# Plattform-Kapitalismus
+
+- Geschäftsmodell: Vermarktung von Aufmerksamkeit: [Comparing Facebook and Google Business Models | Understanding Business Models](https://businessmodelinnovationmatters.wordpress.com/2012/04/18/comparing-facebook-and-google-business-models/ "Comparing Facebook and Google Business Models | Understanding Business Models")
+- Business-Asset: Daten über die User*innen: [How many MB\GBs of data does Facebook store on an average user?](https://www.quora.com/How-many-MB-GBs-of-data-does-Facebook-store-on-an-average-user "How many MB\GBs of data does Facebook store on an average user? - Quora")
+- Kunden: Unternehmen: [Facebook Stats Every Marketer Should Know in 2020](https://sproutsocial.com/insights/facebook-stats-for-marketers/ "Facebook Stats Every Marketer Should Know in 2020 | Sprout Social")
+- Effekt: Abhängigkeit: [Social Media Addiction](https://medium.com/brandbull/social-media-addiction-39-757-years-of-our-time-is-collectively-spend-on-facebook-in-a-day-1b4902379377 "Social Media Addiction: 39,757 Years Of Our Time Is Collectively Spend On Facebook In A Day ! | by Shyam Swaraj | BrandBull | Medium")
+
+# Inhalt und Transaktionen
+
+- Verlinkung von Inhalten und Transaktionen: <https://www.nytimes.com/video/technology/100000004574648/china-internet-wechat.html>
+- Publikation entsprechend Transaktionswahrscheinlichkeit: [Facebook Marketing Automation for Real Estate](https://www.slideshare.net/inmannews/facebook-marketing-automation-for-real-estate "Facebook Marketing Automation for Real Estate")
+- Marketing Funnel: [Content Marketing](https://www.marketing-zerres.com/wp-content/uploads/2020/04/AP_47_Content-Marketing-Strategie-entlang-der-Customer-Journey.pdf)
+- Überwachung der User und Monitoring der Inhalte
+
+# Silos vs. Web
+
+- Privatisierung vs. öffentliche Güter: [Netzneutralität](https://www.derstandard.at/story/2000085451385/netzneutralitaet-a1-tarif-treibt-kunden-in-die-haende-von-facebook "Netzneutralität: A1-Tarif treibt Kunden in die Hände von Facebook - Telekom-Politik - derStandard.at › Web")
+- Arbeitsteilung von Monopolisten: [Will regulating big tech stifle innovation? | MIT Sloan](https://mitsloan.mit.edu/ideas-made-to-matter/will-regulating-big-tech-stifle-innovation?utm_source=mitsloantwitter&utm_medium=social&utm_campaign=bigtech "Will regulating big tech stifle innovation? | MIT Sloan")
+- Management der User-Identität
+
+
+
+
+# Risiken und Policies
+
+- Datenschutz
+- Kontrollverlust
+- Private Kommunikation und Organisationskommunikation
+- Abhängigkeit von Plattformen
+
+
+
 # Nachfrage bestimmt
 
 - User und Netzwerke entscheiden, was gesehen wird
@@ -89,3 +129,9 @@ date: 2021-08-23
 |User:innen-zentriert?    |        Unverwechselbar?|
 |Relevanz?        |                Vernetzt?|
 |Werte?         |                   Aktuell und fortsetzbar?|
+
+# Übung:
+
+- Wie manage ich meine Identität im sozialen Web?
+- Wie organisiere ich meinen Zugang zu digitalen Informationen?
+- Welche Netzwerke sind für mich am relevantesten?
