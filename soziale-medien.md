@@ -15,7 +15,7 @@ date: 2021-08-23
 
 # Plattform-Kapitalismus
 
-- Geschäftsmodell: Vermarktung von Aufmerksamkeit: [Comparing Facebook and Google Business Models | Understanding Business Models](https://businessmodelinnovationmatters.wordpress.com/2012/04/18/comparing-facebook-and-google-business-models/ "Comparing Facebook and Google Business Models | Understanding Business Models")
+- Geschäftsmodell: Vermarktung von Aufmerksamkeit
 - Business-Asset: Daten über die User*innen: [How many MB\GBs of data does Facebook store on an average user?](https://www.quora.com/How-many-MB-GBs-of-data-does-Facebook-store-on-an-average-user "How many MB\GBs of data does Facebook store on an average user? - Quora")
 - Kunden: Unternehmen: [Facebook Stats Every Marketer Should Know in 2020](https://sproutsocial.com/insights/facebook-stats-for-marketers/ "Facebook Stats Every Marketer Should Know in 2020 | Sprout Social")
 - Effekt: Abhängigkeit: [Social Media Addiction](https://medium.com/brandbull/social-media-addiction-39-757-years-of-our-time-is-collectively-spend-on-facebook-in-a-day-1b4902379377 "Social Media Addiction: 39,757 Years Of Our Time Is Collectively Spend On Facebook In A Day ! | by Shyam Swaraj | BrandBull | Medium")
