@@ -16,6 +16,8 @@ date: 2021-08-23
 
 # Facebook-Zielgruppe in Graz
 
+# {data-background="pics/zielgruppe-graz.png"}
+# {data-background="pics/informationsquellen.png"}
 
 # Vorrang für direkten Kontakt
 
@@ -84,6 +86,6 @@ date: 2021-08-23
 |---|---|
 |Strategie?  | Persönlich?|
 |Interaktion?     |               Visuell?|
-|Kundenzentrierung?    |        Unverwechselbar?|
+|User:innen-zentriert?    |        Unverwechselbar?|
 |Relevanz?        |                Vernetzt?|
 |Werte?         |                   Aktuell und fortsetzbar?|
